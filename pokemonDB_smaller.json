@@ -1,6 +1,5 @@
-{
-"pokemon":
-[
+
+const pokemon = [
  {
    "id": 1,
    "identifier": "bulbasaur"
@@ -3230,4 +3229,3 @@
    "identifier": "zeraora"
  }
 ]
-}
